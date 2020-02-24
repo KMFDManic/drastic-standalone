@@ -1,0 +1,1 @@
+ DraStic is a standalone full speed Nintendo DS emulator
